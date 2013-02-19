@@ -15,4 +15,8 @@ How to use::
     print smart_unicode(some_string)
     print smart_unicode_with_replace(broken_string)
 
-It's all!
+See also:
+
+* https://pypi.python.org/pypi/Unidecode
+* https://pypi.python.org/pypi/chardet
+
