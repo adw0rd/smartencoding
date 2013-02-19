@@ -1,7 +1,7 @@
 """These functions are copied from the source code of Django 1.5b2.
 And provides smart convertation into utf8 and other encodings
 """
-__version__ = "0.2a"
+__version__ = "0.2b"
 
 import six
 
