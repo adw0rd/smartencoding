@@ -3,7 +3,7 @@ And provides smart convertation into utf8 and other encodings
 """
 __version__ = "0.2b"
 
-import six
+from . import six
 
 
 def is_protected_type(obj):
