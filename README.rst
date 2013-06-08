@@ -7,6 +7,9 @@ For example, I use in the Flask.
 
 .. image:: https://secure.travis-ci.org/adw0rd/smartencoding.png
     :target: http://travis-ci.org/adw0rd/smartencoding
+    
+.. image:: https://pypip.in/d/smartencoding/badge.png
+    :target: http://pypi.python.org/pypi/smartencoding
 
 
 Installation::
